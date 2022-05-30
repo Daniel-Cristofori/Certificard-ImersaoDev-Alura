@@ -1,8 +1,6 @@
+ # Projeto final da ImersãoDeV-Alura de 2021
 
-
-   # Projeto final da ImersãoDeV-Alura de 2021
-
-   Site para apresentar os desafos feitos durante a Imersão.
+   Site para apresentar os desafios feitos durante a Imersão.
 
    ## Link para visualisuakisar o site:
 
